@@ -6,7 +6,7 @@ This site showcases my **skills**, **projects**, **certificates**, **about me**,
 ---
 
 ## 🔗 Live Portfolio
-🌐 View My Portfolio Website Here:-([[https://harshgarg2005.github.io/Resume-Web/)]
+🌐 View My Portfolio Website Here:- ([https://harsh-portfolio-seven-eta.vercel.app/])
 ---
 
 ## 📌 Features
